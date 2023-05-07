@@ -1,4 +1,4 @@
-# React Mock Code Challenge: gregslist
+# React Mock Code Challenge: gregslist c
 
 ## Demo
 
